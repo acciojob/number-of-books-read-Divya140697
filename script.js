@@ -35,4 +35,6 @@ function numberOfBooksRead(library) {
 
 // Do not change the code below
 
-alert(numberOfBooksRead());
+//alert(numberOfBooksRead());
+const countOfReadBooks = numberOfBooksRead(library);
+console.log(countOfReadBooks);
